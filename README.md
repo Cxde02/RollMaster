@@ -1,2 +1,2 @@
 # RollMaster
-A Dice Rolling Android App
+A Dice Rolling Android App.
