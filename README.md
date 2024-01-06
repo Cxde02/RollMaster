@@ -6,8 +6,6 @@ Rollmaster is an Android application I developed as part of my learning journey 
 **Screenshots**<br><br>
 <img src="screenshots/SS1.png" alt="Screenshot 1" height="450">       <img src="screenshots/SS2.png" alt="Screenshot 2" height="450">
 
-**Video**<br><br>
-<iframe width="560" height="315" src="https://drive.google.com/file/d/1JjDyUKoOXfgacDtMVVP9bgZlcKViMit1/preview" frameborder="0" allowfullscreen></iframe>
 
 
 
